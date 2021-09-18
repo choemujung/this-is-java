@@ -1,4 +1,4 @@
-package ch07_03.ex01;
+package ch07.sec03.ex01;
 
 public class People {
 	public String name;

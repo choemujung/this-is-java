@@ -1,4 +1,4 @@
-package ch07_02.ex01;
+package ch07.sec02.ex01;
 
 public class DmbCellPhoneExample {
 	public static void main(String[] args) {
